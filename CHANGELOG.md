@@ -19,14 +19,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [unreleased]: https://github.com/frlp-utn-ingsoft/shopp/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/frlp-utn-ingsoft/shopp/releases/tag/v1.0.0
 
-## [1.2.2] - 2022-06-16
+## [1.1.0] - 2022-06-30
 
 ### Added
 
 -   Footer con la información de contacto de Shopp
 -   Descripción de cada producto
 -   Mejoras para aumentar la métrica de Accesibilidad de lighthouse al 100%
--   Mejoras para aumentar la métrica de Buenas Prácticas lighthouse al 92%
+-   Mejoras para aumentar la métrica de Buenas Prácticas lighthouse al 100%
+-   Mejoras para aumentar la métrica de SEO de lighthouse al 100%
 
 ### Fixed
 
@@ -37,16 +38,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Metrics
 
 -   Performance: 
-    Inicial: 91% a 97%
-    Final: 90% a 97%
+    Inicial: 91% 
+    Final: 97%
 -   Accessibility:
     Inicial: 91% 
     Final: 100%
 -   Best practices:
     Inicial: 83%
-    Final: 92%
+    Final: 100%
 -   SEO:
     Inicial: 92% 
-    Final: 92%
+    Final: 100%
 
-[1.2.2]: https://github.com/Noceloni/shopp/releases/tag/v1.2.2
+[1.1.0]: https://github.com/Noceloni/shopp/releases/tag/v1.2.2
